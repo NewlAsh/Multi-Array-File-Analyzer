@@ -1,0 +1,31 @@
+Array 1 is: 10  20  -5  7  30  7  10  
+
+No. of elements in Array 1 is: 7
+
+Sum of those elements is: 79
+
+Below mentioned are the frequencies of each element: 
+-5 occurs 1 times
+7 occurs 2 times
+10 occurs 2 times
+20 occurs 1 times
+30 occurs 1 times
+
+
+
+Array 2 is: 20  5  4  -1  2  -4  
+
+No. of elements in Array 2 is: 6
+
+Sum of those elements is: 26
+
+Below mentioned are the frequencies of each element: 
+-4 occurs 1 times
+-1 occurs 1 times
+2 occurs 1 times
+4 occurs 1 times
+5 occurs 1 times
+20 occurs 1 times
+
+
+
